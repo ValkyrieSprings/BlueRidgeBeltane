@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NEVC2Q1yKzLl6m9NznUOaA4eTXbZ//WrvcmDl9lvXqzhL4AowH+U0lgL+WViRxYx2noxLvGFPrjYp4YnFltMLw==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\Personal\\BlueRidgeBeltane\\BrbFestApp.Common\\BrbFestApp.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\afrey\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\afrey\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
