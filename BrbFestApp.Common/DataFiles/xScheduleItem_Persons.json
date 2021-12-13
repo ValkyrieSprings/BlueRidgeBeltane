@@ -1,0 +1,43 @@
+﻿{
+  "xScheduleItem_Persons": [{
+    "Id": 1,
+    "PersonId": 1,
+    "ScheduleItemId": 1,
+    "IsPrimary": true
+  }, {
+    "Id": 2,
+    "PersonId": 1,
+    "ScheduleItemId": 2,
+    "IsPrimary": true
+  }, {
+    "Id": 3,
+    "PersonId": 2,
+    "ScheduleItemId": 3,
+    "IsPrimary": true
+  }, {
+    "Id": 4,
+    "PersonId": 2,
+    "ScheduleItemId": 4,
+    "IsPrimary": false
+  }, {
+    "Id": 5,
+    "PersonId": 3,
+    "ScheduleItemId": 5,
+    "IsPrimary": false
+  }, {
+    "Id": 6,
+    "PersonId": 3,
+    "ScheduleItemId": 2,
+    "IsPrimary": false
+  }, {
+    "Id": 7,
+    "PersonId": 1,
+    "ScheduleItemId": 4,
+    "IsPrimary": false
+  }, {
+    "Id": 8,
+    "PersonId": 2,
+    "ScheduleItemId": 5,
+    "IsPrimary": false
+  }]
+}

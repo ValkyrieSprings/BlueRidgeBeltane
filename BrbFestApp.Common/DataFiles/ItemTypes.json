@@ -1,0 +1,39 @@
+﻿{
+  "ItemTypes": [{
+    "Id": 1,
+    "Name": "Uncategorized"
+  }, {
+    "Id": 2,
+    "Name": "Class"
+  }, {
+    "Id": 3,
+    "Name": "General"
+  }, {
+    "Id": 4,
+    "Name": "Ritual"
+  }, {
+    "Id": 5,
+    "Name": "Demonstration"
+  }, {
+    "Id": 6,
+    "Name": "Sharing Event"
+  }, {
+    "Id": 7,
+    "Name": "Entertainment"
+  }, {
+    "Id": 8,
+    "Name": "Health & Safety"
+  }, {
+    "Id": 9,
+    "Name": "Presenter"
+  }, {
+    "Id": 10,
+    "Name": "Staff"
+  }, {
+    "Id": 11,
+    "Name": "Volunteer"
+  }, {
+    "Id": 12,
+    "Name": "Vendor"
+  }]
+}
