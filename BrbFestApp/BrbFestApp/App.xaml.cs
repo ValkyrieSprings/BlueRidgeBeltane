@@ -1,6 +1,7 @@
 ﻿using BrbFestApp.Services;
 using BrbFestApp.Views;
 using System;
+using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
